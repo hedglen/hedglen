@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/robhedglen/)
+[![LinkedIn](https://img.shields.io/badge/-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/robhedglen/)
 [![Facebook](https://img.shields.io/badge/-rob.hedglen-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/rob.hedglen.777)
 [![Mastodon](https://img.shields.io/badge/-@Trimmer-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=6364FF)](https://techhub.social/@Trimmer)
 
