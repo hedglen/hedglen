@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robhedglen/)
-[![Facebook](https://img.shields.io/badge/Facebook-rob.hedglen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rob.hedglen.777)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40Trimmer-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@Trimmer)
+[![LinkedIn](https://img.shields.io/badge/-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robhedglen/)
+[![Facebook](https://img.shields.io/badge/-rob.hedglen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rob.hedglen.777)
+[![Mastodon](https://img.shields.io/badge/-@Trimmer-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@Trimmer)
 
 </div>
 
