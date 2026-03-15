@@ -2,12 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:6a0dad,100:BF00FF&height=200&section=header&text=hedglen&fontSize=80&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=Veteran%20·%20Tech%20Enthusiast%20·%20Curious%20Human&descAlignY=60&descColor=FFFFFF" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Into+good+tools+and+great+stories.;Smart+conversation+welcome.;Veteran.+Builder.+Explorer." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/%20-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/robhedglen/)
-[![Facebook](https://img.shields.io/badge/-rob.hedglen-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/rob.hedglen.777)
+[![LinkedIn](https://img.shields.io/badge/%20-Rob_Hedglen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/robhedglen/)
+[![Facebook](https://img.shields.io/badge/-rob.hedglen-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/rob.hedglen)
 [![Mastodon](https://img.shields.io/badge/-@Trimmer-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=6364FF)](https://techhub.social/@Trimmer)
 
 </div>
