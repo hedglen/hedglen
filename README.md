@@ -23,8 +23,9 @@
 
 | Repo | What it is |
 |------|------------|
-| [**dotfiles**](https://github.com/hedglen/dotfiles) | Full Windows machine bootstrap — PowerShell, AHK, VS Code, Terminal, privacy tweaks |
+| [**dotfiles**](https://github.com/hedglen/dotfiles) | Full Windows machine bootstrap — PowerShell, AHK, VS Code, Terminal, OMP theme, privacy tweaks |
 | [**mpv-config**](https://github.com/hedglen/mpv-config) | Elite mpv media player — HDR, FSRCNNX shaders, ultrawide, Corsair Scimitar bindings |
+| [**foobar2000**](https://github.com/hedglen/foobar2000) | Portable foobar2000 — Georgia-Reborn theme, visualisers, FLAC/lossless workflow |
 
 ---
 
