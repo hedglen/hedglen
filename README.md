@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E0E0E,50:1B0030,100:E954FF&height=140&text=hedglen&fontSize=64&fontColor=00E8FF&animation=fadeIn&fontAlignY=55&desc=Veteran+·+Builder+·+Windows+power+user&descAlignY=75&descColor=C8C8D0" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0E0E0E,40:3D0066,100:E954FF&height=160&text=hedglen&fontSize=64&fontColor=00E8FF&stroke=E954FF&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=Veteran+·+Builder+·+Windows+power+user&descAlignY=75&descColor=C8C8D0" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&duration=3000&pause=1000&color=E954FF&background=00000000&center=true&vCenter=true&width=600&lines=Fast+clean+Windows+setups.;mpv+HDR+ultrawide+shaders.;Neon+dark+everything.;Tools+that+stay+out+of+the+way." alt="Typing SVG" />
 
 </div>
 
@@ -8,10 +16,13 @@
 
 ```pwsh
 PS ~> whoami
-hedglen — building tools that get out of the way
+  hedglen — building tools that get out of the way
 
 PS ~> ls ./workstation
-dotfiles/    mpv-config/    foobar2000/    scripts/
+  dotfiles/   mpv-config/   foobar2000/   scripts/   notes/
+
+PS ~> uptime
+  12d 4h 31m
 ```
 
 ---
@@ -54,7 +65,7 @@ dotfiles/    mpv-config/    foobar2000/    scripts/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hedglen&show_icons=true&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF&include_all_commits=true&count_private=true&rank_icon=github" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=hedglen&show_icons=true&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="160" />
 <img src="https://streak-stats.demolab.com?user=hedglen&background=0E0E0E&ring=E954FF&fire=FFD447&currStreakLabel=00E8FF&sideLabels=00E8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4A4A55&border=E954FF&stroke=E954FF" height="160" />
 
 </div>
@@ -70,6 +81,6 @@ dotfiles/    mpv-config/    foobar2000/    scripts/
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E954FF,50:3D2560,100:0E0E0E&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:E954FF,50:3D0066,100:0E0E0E&height=100&section=footer" />
 
 </div>
