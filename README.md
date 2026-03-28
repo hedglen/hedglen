@@ -29,19 +29,11 @@ PS ~> uptime
 
 ## Projects
 
-<div align="center">
-
-<a href="https://github.com/hedglen/dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedglen&repo=dotfiles&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF" />
-</a>
-<a href="https://github.com/hedglen/mpv-config">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedglen&repo=mpv-config&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF" />
-</a>
-<a href="https://github.com/hedglen/foobar2000">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedglen&repo=foobar2000&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF" />
-</a>
-
-</div>
+| Repo | What it is |
+|------|------------|
+| [**dotfiles**](https://github.com/hedglen/dotfiles) | Full Windows machine bootstrap — PowerShell, Oh My Posh, AHK, VS Code, Terminal, privacy tweaks |
+| [**mpv-config**](https://github.com/hedglen/mpv-config) | Elite mpv setup — HDR, FSRCNNX shaders, ultrawide, single-instance launcher, Corsair bindings |
+| [**foobar2000**](https://github.com/hedglen/foobar2000) | Portable foobar2000 — Georgia-Reborn theme, visualisers, FLAC/lossless workflow |
 
 ---
 
@@ -65,7 +57,6 @@ PS ~> uptime
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hedglen&show_icons=true&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="160" />
 <img src="https://streak-stats.demolab.com?user=hedglen&background=0E0E0E&ring=E954FF&fire=FFD447&currStreakLabel=00E8FF&sideLabels=00E8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4A4A55&border=E954FF&stroke=E954FF" height="160" />
 
 </div>
