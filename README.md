@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:6a0dad,100:BF00FF&height=200&section=header&text=hedglen&fontSize=80&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=Veteran%20·%20Tech%20Enthusiast%20·%20Curious%20Human&descAlignY=60&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0E0E,50:3D2560,100:E954FF&height=200&section=header&text=hedglen&fontSize=80&fontColor=00E8FF&animation=twinkling&fontAlignY=38&desc=Veteran%20·%20Tech%20Enthusiast%20·%20Curious%20Human&descAlignY=60&descColor=FFFFFF" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Into+good+tools+and+great+stories.;Smart+conversation+welcome.;Veteran.+Builder.+Explorer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=20&duration=3000&pause=1000&color=00E8FF&background=00000000&center=true&vCenter=true&width=600&lines=Into+good+tools+and+great+stories.;Smart+conversation+welcome.;Veteran.+Builder.+Explorer." alt="Typing SVG" />
 
 <br/>
 
@@ -49,12 +49,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hedglen&show_icons=true&bg_color=0A0A0F&title_color=BF00FF&text_color=39FF14&icon_color=FF6000&border_color=BF00FF&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedglen&layout=compact&bg_color=0A0A0F&title_color=BF00FF&text_color=39FF14&border_color=BF00FF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=hedglen&show_icons=true&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&icon_color=FFD447&border_color=E954FF&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedglen&layout=compact&bg_color=0E0E0E&title_color=E954FF&text_color=00E8FF&border_color=E954FF" height="170" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=hedglen&background=0A0A0F&ring=BF00FF&fire=FF6000&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border=BF00FF&stroke=BF00FF" />
+<img src="https://streak-stats.demolab.com?user=hedglen&background=0E0E0E&ring=E954FF&fire=FFD447&currStreakLabel=00E8FF&sideLabels=00E8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4A4A55&border=E954FF&stroke=E954FF" />
 
 </div>
 
@@ -62,6 +62,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,50:6a0dad,100:0A0A0F&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E954FF,50:3D2560,100:0E0E0E&height=120&section=footer" />
 
 </div>
