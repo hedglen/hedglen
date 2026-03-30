@@ -31,9 +31,7 @@ PS ~> uptime
 
 | Repo | What it is |
 |------|------------|
-| [**dotfiles**](https://github.com/hedglen/dotfiles) | Full Windows machine bootstrap — PowerShell, Oh My Posh, AHK, VS Code, Terminal, privacy tweaks |
-| [**mpv-config**](https://github.com/hedglen/mpv-config) | Elite mpv setup — HDR, FSRCNNX shaders, ultrawide, single-instance launcher, Corsair bindings |
-| [**foobar2000**](https://github.com/hedglen/foobar2000) | Portable foobar2000 — Georgia-Reborn theme, visualisers, FLAC/lossless workflow |
+| [**windows-dev-workstation**](https://github.com/hedglen/windows-dev-workstation) | A clean, opinionated Windows-first developer workstation guide with bootstrap scripts, config, privacy tuning, maintenance, and gaming setup. |
 
 ---
 
