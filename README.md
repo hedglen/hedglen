@@ -19,7 +19,7 @@ PS ~> whoami
   hedglen — building tools that get out of the way
 
 PS ~> ls ./workstation
-  dotfiles/   mpv-config/   foobar2000/   scripts/   notes/
+  dotfiles/ (utility scripts in dotfiles/scripts/)   mpv-config/   foobar2000/
 
 PS ~> uptime
   12d 4h 31m
